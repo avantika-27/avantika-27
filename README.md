@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avantika-27
-- 👀 I’m interested in cloud
-- 🌱 I’m currently learning python and gcp
+- 👀 I’m interested in Data,ML AI
+- 🌱 I’m currently exploring the ML AI path and doing projects in it
 - 📫 How to reach me : avantika.tiwari2000@gmail.com
 
 <!---
